@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\NICOL\\OneDrive\\Área de Trabalho\\WebCrudMvc\\WebCrudMvc.csproj": {}
+    "C:\\Users\\NICOL\\OneDrive\\Área de Trabalho\\Proj-CrudMvc\\WebCrudMvc\\WebCrudMvc.csproj": {}
   },
   "projects": {
-    "C:\\Users\\NICOL\\OneDrive\\Área de Trabalho\\WebCrudMvc\\WebCrudMvc.csproj": {
+    "C:\\Users\\NICOL\\OneDrive\\Área de Trabalho\\Proj-CrudMvc\\WebCrudMvc\\WebCrudMvc.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\NICOL\\OneDrive\\Área de Trabalho\\WebCrudMvc\\WebCrudMvc.csproj",
+        "projectUniqueName": "C:\\Users\\NICOL\\OneDrive\\Área de Trabalho\\Proj-CrudMvc\\WebCrudMvc\\WebCrudMvc.csproj",
         "projectName": "WebCrudMvc",
-        "projectPath": "C:\\Users\\NICOL\\OneDrive\\Área de Trabalho\\WebCrudMvc\\WebCrudMvc.csproj",
+        "projectPath": "C:\\Users\\NICOL\\OneDrive\\Área de Trabalho\\Proj-CrudMvc\\WebCrudMvc\\WebCrudMvc.csproj",
         "packagesPath": "C:\\Users\\NICOL\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\NICOL\\OneDrive\\Área de Trabalho\\WebCrudMvc\\obj\\",
+        "outputPath": "C:\\Users\\NICOL\\OneDrive\\Área de Trabalho\\Proj-CrudMvc\\WebCrudMvc\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "MaMLiuVaz/Paf9tLnJ+bUgLnvJk6chyRpgBLgJl0McXXaDMWFcsnA+mH+HtAPzNTY3ThrJxogygal7lSYP6GNA==",
+  "dgSpecHash": "3+tnDOwRPaePtHGJyscZuDvZSfEmRmeCCioTM41gQp57fJN31u0SllSegvijNLnhnBSZ6+zmYe03LcPkWBmpdw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\NICOL\\OneDrive\\Área de Trabalho\\WebCrudMvc\\WebCrudMvc.csproj",
+  "projectFilePath": "C:\\Users\\NICOL\\OneDrive\\Área de Trabalho\\Proj-CrudMvc\\WebCrudMvc\\WebCrudMvc.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\NICOL\\.nuget\\packages\\azure.core\\1.25.0\\azure.core.1.25.0.nupkg.sha512",
     "C:\\Users\\NICOL\\.nuget\\packages\\azure.identity\\1.7.0\\azure.identity.1.7.0.nupkg.sha512",
