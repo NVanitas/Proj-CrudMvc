@@ -1,6 +1,6 @@
 # Proj-CrudMvc
  
-Api Rest em Asp.Net
+Crud em Asp.Net
 
 Em program.cs
 Altere a string de conexão!
