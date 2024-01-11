@@ -20,3 +20,10 @@ html {
 body {
   margin-bottom: 60px;
 }
+
+.image {
+    width: 250px;
+    height: auto;
+    margin: 20px;
+
+}

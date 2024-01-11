@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("WebCrudMvc")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c67406902fbad186f591f4f584bfd1cdbac95bb0")]
 [assembly: System.Reflection.AssemblyProductAttribute("WebCrudMvc")]
 [assembly: System.Reflection.AssemblyTitleAttribute("WebCrudMvc")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

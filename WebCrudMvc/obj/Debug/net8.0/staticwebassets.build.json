@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "UuUC8Ho7AeQ0J2yn4OGfITMAVqwjEEC1dDEiJxt8YXM=",
+  "Hash": "lb2SLH2vry9etLo4EroUGU7+48pZUxYfj7hY7vWzmjY=",
   "Source": "WebCrudMvc",
   "BasePath": "_content/WebCrudMvc",
   "Mode": "Default",
@@ -1231,6 +1231,25 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Identity": "C:\\Users\\NICOL\\OneDrive\\Área de Trabalho\\Proj-CrudMvc\\WebCrudMvc\\wwwroot\\material\\cart.png",
+      "SourceId": "WebCrudMvc",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\NICOL\\OneDrive\\Área de Trabalho\\Proj-CrudMvc\\WebCrudMvc\\wwwroot\\",
+      "BasePath": "_content/WebCrudMvc",
+      "RelativePath": "material/cart.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\material\\cart.png"
     }
   ]
 }
